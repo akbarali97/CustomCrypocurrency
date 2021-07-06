@@ -1,2 +1,8 @@
 __pycache__/
 .vscode/
+private.pem
+receiver.pem
+.gitignore
+.DS_Store
+gymcoin/site.db
+.env
